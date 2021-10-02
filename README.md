@@ -1,4 +1,4 @@
-# Picagram
-Picagram is one of the best social media platforms in today’s world. Most of the people use the Instagram every day effectively and continuously. This causes that Picagram is under heavy-traffic. As you know, heavy-traffic means that there are too many incoming requests to the system and system should respond all these requests under reliability, availability and minimum latency.
+# Meme App
+Meme Share app is Funny app where user can see Funny memes on app.User will also share and Download the memes. User can build his profile. People will see more funny memes by clicking on the next button based in his interest.  So, his home Feed will first be filled up with his following user’s memes. User can see list of Trending and Top Download memes also.
 
-As you know Picagram is a social media platform that ensures users to upload, share, view, comment pictures via this platform. Additionally, you can follow other users. If you are using Instagram, you can realize that user’s timeline is one the best and important topic for Picagram because every user meet this system in its timeline and timeline creation time is so important under this conditions
+We have Created this app on Kotlin with Android Studio. This app is built using Kotlin and uses Cloud Firebase as a database. All the user’s details and his memes are stored on Firebase.The Memes are coming continuously in the app by fetching data through the Volley API call. 
